@@ -1,0 +1,2 @@
+CO2Meter @ git+https://github.com/heinemml/CO2Meter@85db5a6be043d4645801a010098bdea96e2a0ad1
+fastapi==0.79.0
